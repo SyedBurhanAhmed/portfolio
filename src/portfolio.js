@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://SyedBurhanAhmed.github.io',
+  homepage: 'https://www.SyedBurhanAhmed.live',
   title: 'SBA.',
 }
 
@@ -9,8 +9,8 @@ const about = {
   name: 'Syed Burhan Ahmed',
   role: 'AI Engineer',
   description:
-    'AI, ML, and Data Enthusiast, focused on custom chatbot development , bringing personalized solutions to businesses and users alike.I am committed to delivering innovative solutions that drive efficiency and engagement. ',
-  resume: '/resume.pdf',
+    'Innovative AI engineer with deep expertise in Generative AI, NLP, Computer Vision, and Full-Stack Development. Adept at building real-time AI agents, automating manual workflows, and architecting complex end-to-end solutions using Python, PyTorch, YOLOv11, LangChain, LlamaIndex, and Flask. Demonstrated impact through practical deployments, including a YOLOv11-based fall detection system, a memory-augmented Neo4j conversational agent, a multilingual RAG-powered lecture assistant, and touchless, voice-activated attendance platforms. Experienced in technical mentorship and curriculum development as an AI Team Co-Lead and former Teaching Assistant. Passionate about transforming ideas into production-ready AI systems that drive measurable value and innovation.',
+  resume: '/SyedBurhanAhmed.pdf',
   social: {
     linkedin: 'https://linkedin.com/in/syed-burhan-ahmed',
     github: 'https://github.com/SyedBurhanAhmed',
